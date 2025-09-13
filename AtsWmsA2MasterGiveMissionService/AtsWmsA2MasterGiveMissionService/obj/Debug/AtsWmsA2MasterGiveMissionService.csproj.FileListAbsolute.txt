@@ -1,0 +1,9 @@
+D:\Bharat Biotech\new s\AtsWmsA2MasterGiveMissionService\AtsWmsA2MasterGiveMissionService\bin\Debug\AtsWmsA2MasterGiveMissionService.exe.config
+D:\Bharat Biotech\new s\AtsWmsA2MasterGiveMissionService\AtsWmsA2MasterGiveMissionService\bin\Debug\AtsWmsA2MasterGiveMissionService.exe
+D:\Bharat Biotech\new s\AtsWmsA2MasterGiveMissionService\AtsWmsA2MasterGiveMissionService\bin\Debug\AtsWmsA2MasterGiveMissionService.pdb
+D:\Bharat Biotech\new s\AtsWmsA2MasterGiveMissionService\AtsWmsA2MasterGiveMissionService\bin\Debug\log4net.dll
+D:\Bharat Biotech\new s\AtsWmsA2MasterGiveMissionService\AtsWmsA2MasterGiveMissionService\obj\Debug\AtsWmsA2MasterGiveMissionService.csprojResolveAssemblyReference.cache
+D:\Bharat Biotech\new s\AtsWmsA2MasterGiveMissionService\AtsWmsA2MasterGiveMissionService\obj\Debug\Interop.OPCAutomation.dll
+D:\Bharat Biotech\new s\AtsWmsA2MasterGiveMissionService\AtsWmsA2MasterGiveMissionService\obj\Debug\AtsWmsA2MasterGiveMissionService.csproj.ResolveComReference.cache
+D:\Bharat Biotech\new s\AtsWmsA2MasterGiveMissionService\AtsWmsA2MasterGiveMissionService\obj\Debug\AtsWmsA2MasterGiveMissionService.exe
+D:\Bharat Biotech\new s\AtsWmsA2MasterGiveMissionService\AtsWmsA2MasterGiveMissionService\obj\Debug\AtsWmsA2MasterGiveMissionService.pdb
